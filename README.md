@@ -1,0 +1,2 @@
+# Potentialflaechen_Windkraft
+ Potentialflächen
